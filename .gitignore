@@ -1,0 +1,10 @@
+# Ignorar dependencias y archivos sensibles
+/vendor/
+/node_modules/
+.env
+/storage/*.key
+/public/hot
+/public/storage
+.phpunit.cache
+.DS_Store
+
